@@ -1,1 +1,1 @@
-# shopadm-security-issues
+# shopadm-infrastructure-issues
